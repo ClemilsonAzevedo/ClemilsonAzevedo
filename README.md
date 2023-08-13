@@ -2,13 +2,13 @@
 
 <div align="center">
   
-# Olá 👋, Chamo-me Clemilson Azevedo💻☕<br/>
+# Hello 👋, i'm Clemilson Azevedo💻☕<br/>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Clemilsondeazevedo@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clemilsonazevedo_/?igshid=YmMyMTA2M2Y%3D) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemilson-azevedo-6a9003238/)<br/>[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClemilsonAzevedo) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ClemAzevedo_) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21653723/clemilson-de-azevedo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/clemilsondeazevedo/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/C23M1250N#3288)
 
 ![Clemilson GitHub stats](https://github-readme-stats.vercel.app/api?username=clemilsonazevedo&show_icons=true&theme=gh-light-mode-only)
 
-### TECNOLOGIAS QUE EU USO
+### Technologies I'm using
 
 <div style="display: inline-block">
     <img style="border-radius: 8px" align="center" alt="html5 " src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -23,19 +23,16 @@
 
 </div>
 
-### TECNOLOGIAS EM PROJECTOS
+### Technologies in my projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemilsonazevedo)](https://github.com/clemilsonazevedo/github-readme-stats)
 
-###  SOFTWARES QUE FAÇO USO
+###  Software I Use
 
 <div style="display: inline-block">
     <img align="center" alt="MacOS " src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> 
-    <img align="center" alt="POP! OS " src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
     <img align="center" alt="UBUNTU " src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img align="center" alt="Windows " src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img align="center" alt="Linux Mint " src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-    <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/><br/>
     <img align="center" alt="NOTION " src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
     <img align="center" alt="Android " src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img align="center" alt="IOS " src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
