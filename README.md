@@ -1,46 +1,75 @@
+<div>
+<div align='left'>
+	
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_clemilsonazevedo_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clemilson-azevedo-6a9003238) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@clemilsondeazevedo) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ClemAzevedo) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ClemAzevedo_) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@clemilsonazevedo) 
+</div>
+ 
+<div align='right'>
+	
+[![](https://visitcount.itsvg.in/api?id=clemilsonazevedo&icon=2&color=12)](https://visitcount.itsvg.in)
+</div>
+</div>
+
+<div align="center">
+	
+# Welcome, i'am Clemilson de Azevedo 🚀👨🏾‍💻 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=737373&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+</div>
+
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+	<li style="margin-bottom: 5px;">
+	
+### 👨🏾‍💻Programming enthusiast
+</li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+	<li style="margin-bottom: 5px; ">👉🏾Never stop Learning</li>
+	<li style="margin-bottom: 5px; ">👉🏾Always focus on the essential</li>
+	<li style="margin-bottom: 5px; ">👉🏾Problems are to be solved.</li>
+</ul>
+</ul>
+
+ ## 💻 Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+</div>
 
 
 <div align="center">
-  
-# Hello 👋, i'm Clemilson Azevedo💻☕<br/>
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Clemilsondeazevedo@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clemilsonazevedo_/?igshid=YmMyMTA2M2Y%3D) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemilson-azevedo-6a9003238/)<br/>[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClemilsonAzevedo) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ClemAzevedo_) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21653723/clemilson-de-azevedo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/clemilsondeazevedo/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/C23M1250N#3288)
-
-![Clemilson GitHub stats](https://github-readme-stats.vercel.app/api?username=clemilsonazevedo&show_icons=true&theme=gh-light-mode-only)
-
-### Technologies I'm using
 
 <div style="display: inline-block">
-    <img style="border-radius: 8px" align="center" alt="html5 " src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-    <img style="border-radius: 8px" align="center" alt="CSS3 " src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img style="border-radius: 8px" align="center" alt="Javascript " src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img style="border-radius: 8px" align="center" alt="Typescript " src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img style="border-radius: 8px" align="center" alt="React " src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img style="border-radius: 8px" align="center" alt="React-native " src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-    <img style="border-radius: 8px" align="center" alt="Tailwind " src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img style="border-radius: 8px" align="center" alt="Styled-Components " src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img style="border-radius: 8px" align="center" alt="NodeJs " src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemilsonazevedo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Clemilson github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClemilsonAzevedo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-### Technologies in my projects
+## 🔝 Top Contributed Repo
+![]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemilsonazevedo)](https://github.com/clemilsonazevedo/github-readme-stats)
-
-###  Software I Use
-
-<div style="display: inline-block">
-    <img align="center" alt="MacOS " src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> 
-    <img align="center" alt="UBUNTU " src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img align="center" alt="Windows " src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img align="center" alt="NOTION " src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
-    <img align="center" alt="Android " src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-    <img align="center" alt="IOS " src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-    <img align="center" alt="Canvas " src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img align="center" alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-    <img align="center" alt="VsCode " src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <br/>
-    <img align="center" alt="Notepad ++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=clemilsonazevedo&theme=dark&hide_border=false" alt="Clemilson github stats" /> 
 </div>
 
-
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClemilsonAzevedo&bg_color=171717&color=f5f5f5&line=d6d3d1&point=f5f5f5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
