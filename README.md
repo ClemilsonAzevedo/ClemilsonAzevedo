@@ -51,11 +51,9 @@
 
 
 <div align="center">
-
 <div style="display: inline-block">
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
@@ -66,7 +64,6 @@
 </div>
 
 ## 🔝 Top Contributed Repo
-![]()
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=clemilsonazevedo&theme=dark&hide_border=false" alt="Clemilson github stats" /> 
