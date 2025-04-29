@@ -18,7 +18,7 @@
 <div align="center">
 	
 # Welcome, i'am Clemilson de Azevedo 🚀👨🏾‍💻 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=737373&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=737373&center=true&vCenter=true&random=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 </div>
 
 <ul style="list-style-type: none; padding: 0; margin: 0;">
