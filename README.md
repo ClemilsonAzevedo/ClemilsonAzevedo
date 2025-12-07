@@ -30,7 +30,7 @@
 </ul>
 
  ## 💻 Languages and Tools
-<div style="display: inline_block"><br>
+<div align="center"><br>
 	
   <img align="center" alt="Go" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -44,9 +44,6 @@
   <img align="center" alt="Bun" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
 </div>
 
-
-<div align="center">
-<div style="display: inline-block">
 
 ## 📊 GitHub Stats
 
