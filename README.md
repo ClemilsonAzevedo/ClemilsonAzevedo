@@ -47,6 +47,8 @@
 
 ## 📊 GitHub Stats
 
+### GitHub Trophy
+
 <div align="center">
   <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <img
@@ -63,13 +65,13 @@
 </div>
 
 
-## My Streak
+### My Streak
 <div align="center">  
 
 ![clemilsonazevedo streak badge](https://github-readme-streak-stats.herokuapp.com?user=clemilsonazevedo&theme=nord&hide_border=true)
 </div>
 
-## Atual Stats
+### Atual Stats
 <div align="center">  
 	
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clemilsonazevedo&theme=nord_dark)
