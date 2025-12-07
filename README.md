@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=88C0D0&center=true&vCenter=true&random=true&width=520&lines=Software+Engineer;Frontend+Software+Developer;Backend+Software+Developer;Mobile+Software+Developer;Full-Stack+Software+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=88C0D0&center=true&vCenter=true&random=true&width=580&lines=Software+Engineer;Frontend+Software+Developer;Backend+Software+Developer;Mobile+Software+Developer;Full-Stack+Software+Developer)
 </div>
 
 <ul style="list-style-type: none; padding: 0; margin: 0;">
