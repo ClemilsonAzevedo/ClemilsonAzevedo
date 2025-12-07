@@ -48,11 +48,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![clemilsonazevedo trophies](https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=nord&row=2&column=3&no-frame=true) ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark)
-
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
+    <img
+      alt="trophies"
+      src="https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=nord&row=2&column=3&no-frame=true"
+      style="height:180px; object-fit:contain;"
+    />
+    <img
+      alt="Top languages by repo"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark"
+      style="height:180px; object-fit:contain;"
+    />
+  </div>
 </div>
-
 
 
 ## My Streak
