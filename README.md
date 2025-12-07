@@ -1,5 +1,14 @@
 <div>
 <div align='right'>
+
+<div align="left">
+	
+  <b>`ソフトウェアエンジニア`</b>
+  <samp>
+      <br>
+      <b>Clema</b>
+  </samp>
+</div>
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clemilson-azevedo-6a9003238) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_clemilsonazevedo_) 
@@ -19,15 +28,6 @@
 
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 	<li style="margin-bottom: 5px;">
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      <b>Clema</b>
-  </samp>
-</div>
 	
 ### 👨🏾‍💻Programming enthusiast
 </li>
