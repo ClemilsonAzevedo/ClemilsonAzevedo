@@ -56,7 +56,7 @@
     />
     <img
       alt="Top languages by repo"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark&hide_border=true"
       style="height:180px; object-fit:contain;"
     />
   </div>
