@@ -58,7 +58,7 @@
     />
     <img
       alt="Top languages by repo"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark&hide_border=true"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark"
       style="height:180px; object-fit:contain;"
     />
   </div>
@@ -68,7 +68,7 @@
 ### My Streak
 <div align="center">  
 
-![clemilsonazevedo streak badge](https://github-readme-streak-stats.herokuapp.com?user=clemilsonazevedo&theme=nord&hide_border=true)
+![clemilsonazevedo streak badge](https://github-readme-streak-stats.herokuapp.com?user=clemilsonazevedo&theme=nord)
 </div>
 
 ### Atual Stats
