@@ -9,12 +9,12 @@
 
 <div align="center">
 
-![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20ソフトウェアエンジニア%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=2E3440&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=2E3440&section=header)
+![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20ソフトウェアエンジニア%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=88C0D0&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=2E3440&section=header)
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=2E3440&center=true&vCenter=true&random=true&width=520&lines=Software+Engineer;Frontend+Software+Developer;Backend+Software+Developer;Mobile+Software+Developer;Full-Stack+Software+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=88C0D0&center=true&vCenter=true&random=true&width=520&lines=Software+Engineer;Frontend+Software+Developer;Backend+Software+Developer;Mobile+Software+Developer;Full-Stack+Software+Developer)
 </div>
 
 <ul style="list-style-type: none; padding: 0; margin: 0;">
