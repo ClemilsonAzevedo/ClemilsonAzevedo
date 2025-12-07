@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: inline">
+<div style="display: inline">
 	
 ![clemilsonazevedo trophies](https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=nord&row=2&column=3&no-frame=true)
 
@@ -61,5 +61,7 @@
 </div>
 
 ## Atual Stats
-
+<div align="center">  
+	
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clemilsonazevedo&theme=nord_dark)
+</div>
