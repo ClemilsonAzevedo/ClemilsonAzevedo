@@ -1,8 +1,5 @@
 <div>
 <div align='right'>
-<div align="left">
-  <b>`ソフトウェアエンジニア`</b>
-</div>
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clemilson-azevedo-6a9003238) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_clemilsonazevedo_) 
@@ -12,7 +9,7 @@
 
 <div align="center">
 
-![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20Tech%20enthusiast%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=4787A1&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=4787A1&section=header)
+![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20ソフトウェアエンジニア%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=4787A1&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=4787A1&section=header)
 </div>
 
 <div align="center">
@@ -23,7 +20,7 @@
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 	<li style="margin-bottom: 5px;">
 	
-### 👨🏾‍💻Programming enthusiast
+### 👨🏾‍💻Tech enthusiast
 </li>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 	<li style="margin-bottom: 5px; ">👉🏾Never stop Learning</li>
@@ -32,7 +29,7 @@
 </ul>
 </ul>
 
- ## 💻 Languages and Tools
+ ## 🧰 Languages and Tools
 <div align="center"><br>
 	
   <img align="center" alt="Go" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
