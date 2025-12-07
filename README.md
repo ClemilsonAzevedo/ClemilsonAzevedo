@@ -1,13 +1,7 @@
 <div>
 <div align='right'>
-
 <div align="left">
-	
   <b>`ソフトウェアエンジニア`</b>
-  <samp>
-      <br>
-      <b>Clema</b>
-  </samp>
 </div>
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clemilson-azevedo-6a9003238) 
