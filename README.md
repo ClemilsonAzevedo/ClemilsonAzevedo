@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20ソフトウェアエンジニア%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=88C0D0&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=2E3440&section=header)
+![SVG](https://capsule-render.vercel.app/api?type=blur&height=250&color=4787A1&text=👋🏾%20I'm%20Clema%20|%20ソフトウェアエンジニア%20👨🏾‍💻&reversal=true&fontSize=28&fontColor=88C0D0&animation=fadeIn&strokeWidth=0&textBg=false&fontAlign=50&rotate=0&stroke=4787A1&section=header)
 </div>
 
 <div align="center">
