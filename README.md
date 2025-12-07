@@ -54,8 +54,8 @@
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark)
 </div>
 
-<div align="center">  
 ## My Streak
+<div align="center">  
 
 ![clemilsonazevedo streak badge](https://github-readme-streak-stats.herokuapp.com?user=clemilsonazevedo&theme=nord&hide_border=true)
 </div>
