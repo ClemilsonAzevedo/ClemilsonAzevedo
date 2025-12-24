@@ -52,23 +52,11 @@
 <div align="center">
   <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <img
-      alt="trophies"
-      src="https://github-profile-trophy.vercel.app/?username=clemilsonazevedo&theme=nord&row=2&column=3"
-      style="height:180px; object-fit:contain;"
-    />
-    <img
       alt="Top languages by repo"
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemilsonazevedo&theme=nord_dark"
       style="height:180px; object-fit:contain;"
     />
   </div>
-</div>
-
-
-### My Streak
-<div align="center">  
-
-![clemilsonazevedo streak badge](https://github-readme-streak-stats.herokuapp.com?user=clemilsonazevedo&theme=nord)
 </div>
 
 ### Atual Stats
